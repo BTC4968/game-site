@@ -1,0 +1,1550 @@
+{
+  "views": {
+    "111": 1,
+    "1111": 7,
+    "auto-rob-hub": 1580,
+    "private-chat": 640,
+    "cut-trees": 1,
+    "111lkllklkl": 6
+  },
+  "viewTimeline": [
+    {
+      "date": "2025-10-03",
+      "count": 120
+    },
+    {
+      "date": "2025-10-04",
+      "count": 140
+    },
+    {
+      "date": "2025-10-05",
+      "count": 175
+    },
+    {
+      "date": "2025-10-06",
+      "count": 210
+    },
+    {
+      "date": "2025-10-07",
+      "count": 260
+    },
+    {
+      "date": "2025-10-08",
+      "count": 310
+    },
+    {
+      "date": "2025-10-09",
+      "count": 355
+    },
+    {
+      "date": "2025-10-23",
+      "count": 4
+    },
+    {
+      "date": "2025-10-27",
+      "count": 11
+    }
+  ],
+  "orders": [
+    {
+      "id": "#30219",
+      "userId": "sample-alex",
+      "username": "Alex#123",
+      "amount": 7.99,
+      "currency": "USD",
+      "product": "Auto Rob Hub",
+      "status": "paid",
+      "createdAt": "2025-10-09T09:10:00.000Z",
+      "payment": {
+        "provider": "demo",
+        "providerLabel": "Demo Checkout",
+        "invoiceId": null,
+        "invoiceUrl": null,
+        "status": "finished",
+        "payCurrency": "USD",
+        "payAmount": 7.99,
+        "actuallyPaid": 7.99,
+        "createdAt": "2025-10-09T09:10:00.000Z",
+        "updatedAt": "2025-10-09T09:10:00.000Z"
+      }
+    },
+    {
+      "id": "#30220",
+      "userId": "sample-julian",
+      "username": "Julian",
+      "amount": 14.5,
+      "currency": "USD",
+      "product": "Private Chat",
+      "status": "paid",
+      "createdAt": "2025-10-09T09:15:00.000Z",
+      "payment": {
+        "provider": "demo",
+        "providerLabel": "Demo Checkout",
+        "invoiceId": null,
+        "invoiceUrl": null,
+        "status": "finished",
+        "payCurrency": "USD",
+        "payAmount": 14.5,
+        "actuallyPaid": 14.5,
+        "createdAt": "2025-10-09T09:15:00.000Z",
+        "updatedAt": "2025-10-09T09:15:00.000Z"
+      }
+    },
+    {
+      "id": "#44142",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T01:20:58.896Z",
+      "payment": {
+        "provider": "nowpayments-btc",
+        "providerLabel": "NOWPayments (Bitcoin)",
+        "invoiceId": "5002454936",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=5002454936",
+        "status": "waiting",
+        "payCurrency": "BTC",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T01:20:58.896Z",
+        "updatedAt": "2025-10-23T01:20:58.896Z"
+      }
+    },
+    {
+      "id": "#71407",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T01:24:56.920Z",
+      "payment": {
+        "provider": "nowpayments-btc",
+        "providerLabel": "NOWPayments (Bitcoin)",
+        "invoiceId": "5479737236",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=5479737236",
+        "status": "waiting",
+        "payCurrency": "BTC",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T01:24:56.920Z",
+        "updatedAt": "2025-10-23T01:24:56.920Z"
+      }
+    },
+    {
+      "id": "#15799",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T01:42:07.448Z",
+      "payment": {
+        "provider": "nowpayments-usdc",
+        "providerLabel": "NOWPayments (USD Coin)",
+        "invoiceId": "4319572937",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=4319572937",
+        "status": "waiting",
+        "payCurrency": "USDC",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T01:42:07.448Z",
+        "updatedAt": "2025-10-23T01:42:07.448Z"
+      }
+    },
+    {
+      "id": "#81498",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T01:52:37.111Z",
+      "payment": {
+        "provider": "nowpayments-eth",
+        "providerLabel": "NOWPayments (Ethereum)",
+        "invoiceId": "4859190475",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=4859190475",
+        "status": "waiting",
+        "payCurrency": "ETH",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T01:52:37.111Z",
+        "updatedAt": "2025-10-23T01:52:37.111Z"
+      }
+    },
+    {
+      "id": "#79125",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T01:53:03.254Z",
+      "payment": {
+        "provider": "nowpayments-btc",
+        "providerLabel": "NOWPayments (Bitcoin)",
+        "invoiceId": "5899844853",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=5899844853",
+        "status": "waiting",
+        "payCurrency": "BTC",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T01:53:03.254Z",
+        "updatedAt": "2025-10-23T01:53:03.254Z"
+      }
+    },
+    {
+      "id": "#23284",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T01:53:13.142Z",
+      "payment": {
+        "provider": "nowpayments-eth",
+        "providerLabel": "NOWPayments (Ethereum)",
+        "invoiceId": "5023690174",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=5023690174",
+        "status": "waiting",
+        "payCurrency": "ETH",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T01:53:13.142Z",
+        "updatedAt": "2025-10-23T01:53:13.142Z"
+      }
+    },
+    {
+      "id": "#74546",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T01:53:18.462Z",
+      "payment": {
+        "provider": "nowpayments-usdc",
+        "providerLabel": "NOWPayments (USD Coin)",
+        "invoiceId": "4614457581",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=4614457581",
+        "status": "waiting",
+        "payCurrency": "USDC",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T01:53:18.462Z",
+        "updatedAt": "2025-10-23T01:53:18.462Z"
+      }
+    },
+    {
+      "id": "#55269",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T02:01:19.359Z",
+      "payment": {
+        "provider": "nowpayments-usdterc20",
+        "providerLabel": "NOWPayments (Tether USD (ERC-20))",
+        "invoiceId": "5939405486",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=5939405486",
+        "status": "waiting",
+        "payCurrency": "USDTERC20",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T02:01:19.359Z",
+        "updatedAt": "2025-10-23T02:01:19.359Z"
+      }
+    },
+    {
+      "id": "#77595",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T02:13:36.129Z",
+      "payment": {
+        "provider": "nowpayments-eth",
+        "providerLabel": "NOWPayments (Ethereum)",
+        "invoiceId": "4772663870",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=4772663870",
+        "status": "waiting",
+        "payCurrency": "ETH",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T02:13:36.129Z",
+        "updatedAt": "2025-10-23T02:13:36.129Z"
+      }
+    },
+    {
+      "id": "#58804",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T02:15:20.175Z",
+      "payment": {
+        "provider": "nowpayments-btc",
+        "providerLabel": "NOWPayments (Bitcoin)",
+        "invoiceId": "5497167823",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=5497167823",
+        "status": "waiting",
+        "payCurrency": "BTC",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T02:15:20.175Z",
+        "updatedAt": "2025-10-23T02:15:20.175Z"
+      }
+    },
+    {
+      "id": "#54129",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T03:09:54.166Z",
+      "payment": {
+        "provider": "nowpayments-usdterc20",
+        "providerLabel": "NOWPayments (Tether USD (ERC-20))",
+        "invoiceId": "6096830488",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=6096830488",
+        "status": "waiting",
+        "payCurrency": "USDTERC20",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T03:09:54.166Z",
+        "updatedAt": "2025-10-23T03:09:54.166Z"
+      }
+    },
+    {
+      "id": "#16539",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T03:13:59.229Z",
+      "payment": {
+        "provider": "nowpayments-usdterc20",
+        "providerLabel": "NOWPayments (Tether USD (ERC-20))",
+        "invoiceId": "6251052049",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=6251052049",
+        "status": "waiting",
+        "payCurrency": "USDTERC20",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T03:13:59.229Z",
+        "updatedAt": "2025-10-23T03:13:59.229Z"
+      }
+    },
+    {
+      "id": "#96701",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 31.2,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 5000,
+      "status": "pending",
+      "createdAt": "2025-10-23T03:15:02.760Z",
+      "payment": {
+        "provider": "nowpayments-btc",
+        "providerLabel": "NOWPayments (Bitcoin)",
+        "invoiceId": "5209853041",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=5209853041",
+        "status": "waiting",
+        "payCurrency": "BTC",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-23T03:15:02.760Z",
+        "updatedAt": "2025-10-23T03:15:02.760Z"
+      }
+    },
+    {
+      "id": "#90686",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 2.5,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 400,
+      "status": "pending",
+      "createdAt": "2025-10-25T16:27:28.046Z",
+      "payment": {
+        "provider": "nowpayments-usdterc20",
+        "providerLabel": "NOWPayments (Tether USD (ERC-20))",
+        "invoiceId": "5237665794",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=5237665794",
+        "status": "waiting",
+        "payCurrency": "USDTERC20",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-25T16:27:28.046Z",
+        "updatedAt": "2025-10-25T16:27:28.046Z"
+      }
+    },
+    {
+      "id": "#78226",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "amount": 2.5,
+      "currency": "EUR",
+      "product": "ProfitCruiser Robux Drop",
+      "robuxAmount": 400,
+      "status": "pending",
+      "createdAt": "2025-10-26T13:04:26.981Z",
+      "payment": {
+        "provider": "nowpayments-eth",
+        "providerLabel": "NOWPayments (Ethereum)",
+        "invoiceId": "6208473719",
+        "invoiceUrl": "https://nowpayments.io/payment/?iid=6208473719",
+        "status": "waiting",
+        "payCurrency": "ETH",
+        "payAmount": null,
+        "actuallyPaid": null,
+        "createdAt": "2025-10-26T13:04:26.981Z",
+        "updatedAt": "2025-10-26T13:04:26.981Z"
+      }
+    }
+  ],
+  "chats": [
+    {
+      "id": "f0c46c9b-f646-4a39-a7ce-0db5467dbcd1",
+      "orderId": "#30219",
+      "userId": "sample-alex",
+      "username": "Alex#123",
+      "status": "closed",
+      "createdAt": "2025-10-09T09:45:00.000Z",
+      "lastActivityAt": "2025-10-27T14:10:03.348Z",
+      "responseMinutes": 12,
+      "messages": [
+        {
+          "id": "5de44af2-8fcc-44ed-b01b-5e745401d90d",
+          "author": "system",
+          "body": "Chat opened for order #30219",
+          "createdAt": "2025-10-09T09:45:00.000Z"
+        },
+        {
+          "id": "734fcab8-5cd7-463f-810b-6ecbdf2775c4",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-09T09:45:10.000Z"
+        },
+        {
+          "id": "8af22e5e-a51d-4512-831d-d951cdfcc246",
+          "author": "Alex#123",
+          "body": "Hi, just placed an order! Let me know when you are ready.",
+          "createdAt": "2025-10-09T09:45:30.000Z"
+        },
+        {
+          "id": "a572a1e4-926c-4e11-ad13-9a8d75d8c690",
+          "author": "admin",
+          "body": "Thanks Alex! I will deliver within the hour. Stay online in your VIP server.",
+          "createdAt": "2025-10-09T09:46:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "32fdfe24-1e35-4eae-81e3-dfede748ff26",
+      "orderId": "#30220",
+      "userId": "sample-julian",
+      "username": "Julian",
+      "status": "closed",
+      "createdAt": "2025-10-09T09:45:00.000Z",
+      "lastActivityAt": "2025-10-09T10:05:00.000Z",
+      "responseMinutes": 8,
+      "messages": [
+        {
+          "id": "2f1ec23e-dc5a-4f91-90bc-8e7f609746cb",
+          "author": "system",
+          "body": "Chat opened for order #30220",
+          "createdAt": "2025-10-09T09:45:00.000Z"
+        },
+        {
+          "id": "e5e21aaf-2cef-461d-bc16-3858b8293c8f",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-09T09:45:10.000Z"
+        },
+        {
+          "id": "0a012fce-70ba-4c82-a636-a6e85f61e93f",
+          "author": "Julian",
+          "body": "Looking forward to the private coaching session.",
+          "createdAt": "2025-10-09T09:47:00.000Z"
+        },
+        {
+          "id": "e358b060-fcc8-4b50-952e-9c7344eb9cb7",
+          "author": "admin",
+          "body": "Scheduled for tonight 20:00 CET. See you there!",
+          "createdAt": "2025-10-09T09:48:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "48cfd17b-e41f-4509-a996-6c4f756c7b13",
+      "orderId": "#44142",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-23T01:21:00.405Z",
+      "lastActivityAt": "2025-10-27T14:10:27.629Z",
+      "responseMinutes": 6529,
+      "messages": [
+        {
+          "id": "0a3f1446-c5aa-436e-b818-88862ed429f3",
+          "author": "system",
+          "body": "Chat opened for order #44142",
+          "createdAt": "2025-10-23T01:21:00.405Z"
+        },
+        {
+          "id": "3849d667-44ea-459e-8dbf-72193d157c20",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T01:21:00.405Z"
+        },
+        {
+          "id": "6feac061-e8ed-4aa5-a843-08338fe38c8c",
+          "author": "admin",
+          "body": "Hello....",
+          "createdAt": "2025-10-27T14:10:27.629Z"
+        }
+      ]
+    },
+    {
+      "id": "dfd77d7c-b117-4212-a6a8-ccdc6a696746",
+      "orderId": "#71407",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "closed",
+      "createdAt": "2025-10-23T01:24:58.409Z",
+      "lastActivityAt": "2025-10-27T14:10:09.084Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "ef8ab010-9de1-4487-8e1f-81a4b338f333",
+          "author": "system",
+          "body": "Chat opened for order #71407",
+          "createdAt": "2025-10-23T01:24:58.409Z"
+        },
+        {
+          "id": "e1665709-40e2-42dd-9a89-c5927f63ce96",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T01:24:58.409Z"
+        }
+      ]
+    },
+    {
+      "id": "f251d982-41bc-482b-b458-aa7423b79596",
+      "orderId": "#15799",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-23T01:42:09.059Z",
+      "lastActivityAt": "2025-10-23T01:42:09.059Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "0a7af9d3-20f7-4781-91d8-ea81652bd390",
+          "author": "system",
+          "body": "Chat opened for order #15799",
+          "createdAt": "2025-10-23T01:42:09.059Z"
+        },
+        {
+          "id": "28bcdac2-5fcd-4475-b76b-35d33a2b4d94",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T01:42:09.059Z"
+        }
+      ]
+    },
+    {
+      "id": "a1982ff4-0d38-4afa-ac54-5cac62d75db1",
+      "orderId": "#81498",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-23T01:52:38.737Z",
+      "lastActivityAt": "2025-10-23T01:52:38.737Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "b44ed3cd-0752-45e4-b5e8-9482d99f6931",
+          "author": "system",
+          "body": "Chat opened for order #81498",
+          "createdAt": "2025-10-23T01:52:38.737Z"
+        },
+        {
+          "id": "bfb735e5-df57-4b1e-b52f-85058c2049a5",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T01:52:38.737Z"
+        }
+      ]
+    },
+    {
+      "id": "2749944f-42f8-47b7-8c26-01e14ed98795",
+      "orderId": "#79125",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-23T01:53:06.059Z",
+      "lastActivityAt": "2025-10-23T01:53:06.059Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "97cfaa82-8320-4b80-a509-99a0a7a90c1a",
+          "author": "system",
+          "body": "Chat opened for order #79125",
+          "createdAt": "2025-10-23T01:53:06.059Z"
+        },
+        {
+          "id": "163bf32e-7411-4840-9556-32dc749657af",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T01:53:06.059Z"
+        }
+      ]
+    },
+    {
+      "id": "cfca86a7-efb9-4dae-b24d-0492310d29f1",
+      "orderId": "#23284",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-23T01:53:14.729Z",
+      "lastActivityAt": "2025-10-23T01:53:14.729Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "fee24c11-7472-4c0f-9724-2a191b3d87cc",
+          "author": "system",
+          "body": "Chat opened for order #23284",
+          "createdAt": "2025-10-23T01:53:14.729Z"
+        },
+        {
+          "id": "66ac60dd-2eff-4e23-9815-536cc126b05b",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T01:53:14.729Z"
+        }
+      ]
+    },
+    {
+      "id": "dfb44165-db29-4bd6-a0f9-0fe13dd220fc",
+      "orderId": "#74546",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-23T01:53:19.063Z",
+      "lastActivityAt": "2025-10-23T01:53:19.063Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "a319ed81-2331-4b23-b399-41eb3c70b250",
+          "author": "system",
+          "body": "Chat opened for order #74546",
+          "createdAt": "2025-10-23T01:53:19.063Z"
+        },
+        {
+          "id": "ac9993b9-16a4-4dd7-b65f-d8c7e3bbd9b0",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T01:53:19.063Z"
+        }
+      ]
+    },
+    {
+      "id": "cdc46f86-89ed-4a5a-ad1b-c33858712dd5",
+      "orderId": "#55269",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-23T02:01:21.041Z",
+      "lastActivityAt": "2025-10-23T02:01:21.041Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "4bfb6430-16ac-43f0-87ad-835a9cf9f844",
+          "author": "system",
+          "body": "Chat opened for order #55269",
+          "createdAt": "2025-10-23T02:01:21.041Z"
+        },
+        {
+          "id": "dd55f062-d255-4533-b6df-14b8b0b8457a",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T02:01:21.041Z"
+        }
+      ]
+    },
+    {
+      "id": "3aad79ba-f9a2-4a5a-aa3d-0623415601da",
+      "orderId": "#77595",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-23T02:13:37.625Z",
+      "lastActivityAt": "2025-10-23T02:13:37.625Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "8a9a4414-fa3f-4f87-8a7f-c786b58b21c4",
+          "author": "system",
+          "body": "Chat opened for order #77595",
+          "createdAt": "2025-10-23T02:13:37.625Z"
+        },
+        {
+          "id": "a7fe2cbd-2073-4dc1-b026-da38cb698ef9",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T02:13:37.625Z"
+        }
+      ]
+    },
+    {
+      "id": "991105a1-b41a-4f8c-ad73-98f39c412184",
+      "orderId": "#58804",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-23T02:15:21.855Z",
+      "lastActivityAt": "2025-10-23T02:15:21.855Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "8dc47557-c179-4205-9a97-c9c5c8e9c367",
+          "author": "system",
+          "body": "Chat opened for order #58804",
+          "createdAt": "2025-10-23T02:15:21.855Z"
+        },
+        {
+          "id": "3d33b1b3-eea8-456d-8d0f-42239a852168",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T02:15:21.855Z"
+        }
+      ]
+    },
+    {
+      "id": "7aabfb61-3926-4d58-8f9b-be900b70e373",
+      "orderId": "#54129",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-23T03:09:55.667Z",
+      "lastActivityAt": "2025-10-23T03:09:55.667Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "bec20c74-c9e4-470c-8936-e41665584b1c",
+          "author": "system",
+          "body": "Chat opened for order #54129",
+          "createdAt": "2025-10-23T03:09:55.667Z"
+        },
+        {
+          "id": "e6d86046-a0b4-40ae-834b-d8eb4e827524",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T03:09:55.667Z"
+        }
+      ]
+    },
+    {
+      "id": "3ae23211-bf9a-4afc-adca-54403798b864",
+      "orderId": "#16539",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-23T03:14:01.187Z",
+      "lastActivityAt": "2025-10-23T03:14:01.187Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "b89bba2e-57e8-4e97-b69b-b81265630cde",
+          "author": "system",
+          "body": "Chat opened for order #16539",
+          "createdAt": "2025-10-23T03:14:01.187Z"
+        },
+        {
+          "id": "81886bdc-ca8f-4b1e-863a-8630680ab354",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T03:14:01.187Z"
+        }
+      ]
+    },
+    {
+      "id": "ddceac49-a5f5-42cc-8728-96509a0e61a9",
+      "orderId": "#96701",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-23T03:15:04.477Z",
+      "lastActivityAt": "2025-10-23T03:15:04.477Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "63ae47c5-6dc0-4c31-9c85-95aa6dacddaf",
+          "author": "system",
+          "body": "Chat opened for order #96701",
+          "createdAt": "2025-10-23T03:15:04.477Z"
+        },
+        {
+          "id": "b771b318-37ec-468e-88e7-ea2e0793ad8c",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-23T03:15:04.477Z"
+        }
+      ]
+    },
+    {
+      "id": "0692003d-8939-4139-aa3f-7cc16c6b82cb",
+      "orderId": "#90686",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-25T16:27:29.539Z",
+      "lastActivityAt": "2025-10-25T16:27:29.539Z",
+      "responseMinutes": null,
+      "messages": [
+        {
+          "id": "59495208-f4a4-4132-b750-c96d79209c91",
+          "author": "system",
+          "body": "Chat opened for order #90686",
+          "createdAt": "2025-10-25T16:27:29.539Z"
+        },
+        {
+          "id": "04acb53b-6af9-4e8c-b8dd-9f9b209782d5",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-25T16:27:29.539Z"
+        }
+      ]
+    },
+    {
+      "id": "73c85c6d-3f17-4af7-aa67-2d3cc3558b0b",
+      "orderId": "#78226",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "username": "Admin",
+      "status": "open",
+      "createdAt": "2025-10-26T13:04:28.447Z",
+      "lastActivityAt": "2025-10-27T14:09:13.488Z",
+      "responseMinutes": 1505,
+      "messages": [
+        {
+          "id": "643408e0-3796-4914-be98-ca02ab20f39b",
+          "author": "system",
+          "body": "Chat opened for order #78226",
+          "createdAt": "2025-10-26T13:04:28.447Z"
+        },
+        {
+          "id": "8f93c9d3-9ceb-4707-98f8-9fb65f81202b",
+          "author": "system",
+          "body": "Follow these instructions to add a gamepass: https://www.youtube.com/watch?v=Hl9QPHIXWHk",
+          "createdAt": "2025-10-26T13:04:28.447Z"
+        },
+        {
+          "id": "4455b110-32d1-4f99-bfb7-c799a9519b20",
+          "author": "admin",
+          "body": "adfasdfsadfsadf",
+          "createdAt": "2025-10-27T14:09:13.488Z"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "email": "admin@profitcruiser.gg",
+      "username": "Admin",
+      "passwordHash": "9a4aabf0e5cf71cae2cea646613ce7e2a5919fa758e56819704be25a3a2c1f0b",
+      "role": "admin",
+      "createdAt": "2025-10-21T16:22:58.606Z",
+      "lastLoginAt": "2025-10-27T15:32:35.227Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "dc4ab2d3-be3f-4a06-80cd-190c4522ae8d05c5d0dc-a714-41de-9689-44aea1075e85",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-21T16:24:56.420Z",
+      "expiresAt": "2025-10-28T16:24:56.420Z"
+    },
+    {
+      "token": "6876b313-0a03-40fe-8755-634eb405602baa263d05-2020-4d58-bc75-7517e9795a12",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-23T01:20:11.232Z",
+      "expiresAt": "2025-10-30T01:20:11.232Z"
+    },
+    {
+      "token": "4df66d88-8ff3-4496-8063-c4274c532f048a3f946b-f5cd-48f1-8823-b123fb4928aa",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-23T02:01:13.258Z",
+      "expiresAt": "2025-10-30T02:01:13.258Z"
+    },
+    {
+      "token": "7b334886-7477-43b6-86ba-86823af9a59d6c02fbb3-d00f-4a85-a9d9-b1a35c3e957a",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-23T02:21:07.937Z",
+      "expiresAt": "2025-10-30T02:21:07.937Z"
+    },
+    {
+      "token": "e75cd638-1512-4f91-b2fb-031b9e7a2bf43ad65f66-a036-452e-97a3-56e9f3c230cd",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-23T02:23:21.836Z",
+      "expiresAt": "2025-10-30T02:23:21.836Z"
+    },
+    {
+      "token": "69a5f5ef-8c2b-4372-a409-e5aec6d6a6009c2fd641-a8a5-4589-898f-6122fa78a6f0",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-23T02:43:55.399Z",
+      "expiresAt": "2025-10-30T02:43:55.399Z"
+    },
+    {
+      "token": "7bfb8511-4336-4353-ba4e-d694358475e20a9629f8-284c-48cd-bce4-c73299e71ca1",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-23T02:56:11.037Z",
+      "expiresAt": "2025-10-30T02:56:11.037Z"
+    },
+    {
+      "token": "2eb12af9-35d2-4284-bae6-ac38e3d10aacd2e5ffa9-ddc8-45e3-ad10-16df260ca99f",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-23T03:03:37.278Z",
+      "expiresAt": "2025-10-30T03:03:37.278Z"
+    },
+    {
+      "token": "e66598a0-5270-4538-ab3f-52d76fca3a1e44ba2a2e-8078-44c4-a780-dac8c3cc028d",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-23T03:08:42.080Z",
+      "expiresAt": "2025-10-30T03:08:42.080Z"
+    },
+    {
+      "token": "064b4562-9a3f-43a6-a5ef-fa17b3b2d0b5e8145f9c-1ec0-446f-859c-8c3dddcb8b9b",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-23T03:09:35.223Z",
+      "expiresAt": "2025-10-30T03:09:35.223Z"
+    },
+    {
+      "token": "5def26f2-9896-4247-a4dd-c1f5e94b1ee96eed67b1-afa6-42db-a1dd-7b6665d3848f",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-23T03:09:43.248Z",
+      "expiresAt": "2025-10-30T03:09:43.248Z"
+    },
+    {
+      "token": "45cbe10d-ec2b-4ead-aad4-aa4502def221685fe6c0-a2f0-4dc5-a72e-fdbd2abcb5c0",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-23T03:13:54.993Z",
+      "expiresAt": "2025-10-30T03:13:54.993Z"
+    },
+    {
+      "token": "dafa8a22-32fa-40d7-9199-cc84a7f12d0aeb094dd0-c2ba-4d6d-b0d5-f7f1bc73804d",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-23T15:41:45.133Z",
+      "expiresAt": "2025-10-30T15:41:45.133Z"
+    },
+    {
+      "token": "7604cd4b-f289-4886-842f-43957982bae5a1b06b63-2a99-4510-b0e8-424da3c273aa",
+      "userId": "cdc843e3-f495-4f0f-b47f-3fbd1b9ed888",
+      "createdAt": "2025-10-27T15:32:35.227Z",
+      "expiresAt": "2025-11-03T15:32:35.227Z"
+    }
+  ],
+  "scriptVisibility": {},
+  "settings": {
+    "siteName": "ProfitCruiser",
+    "siteTagline": "Premium Roblox Scripts",
+    "logoUrl": "/logo.svg",
+    "stripeKey": "",
+    "payhipKey": "",
+    "workinkKey": "",
+    "revolutIban": "",
+    "chatEnabled": true,
+    "loggingEnabled": true,
+    "notificationsEnabled": true
+  },
+  "metrics": {
+    "chatResponseMinutes": 10
+  },
+  "activityLog": [
+    {
+      "id": "7d4a43a7-bbaf-43d7-8a0f-7c57450d57ea",
+      "timestamp": "2025-10-09T09:43:00.000Z",
+      "message": "New payment from Alex#123 ($7.99)"
+    },
+    {
+      "id": "2cb95f2c-c67f-4f4c-8594-ed5f8aedc195",
+      "timestamp": "2025-10-09T09:45:00.000Z",
+      "message": "Chat opened (Order #30219)"
+    },
+    {
+      "id": "08c1c5d2-af97-468d-9609-81d6ace27339",
+      "timestamp": "2025-10-09T09:46:00.000Z",
+      "message": "Message sent by Admin"
+    },
+    {
+      "id": "d44f399d-a011-42d3-b7dc-2c74b04d2cca",
+      "timestamp": "2025-10-09T09:50:00.000Z",
+      "message": "Script \"Auto Rob Hub\" published"
+    },
+    {
+      "id": "e0123dbd-b6a1-43e5-9dad-4cb29ea4a40e",
+      "timestamp": "2025-10-21T16:24:56.420Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "31171197-674f-4d6d-8c45-2d8a5d59da9c",
+      "timestamp": "2025-10-23T01:20:11.232Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "1329562c-37d5-4861-afde-0b6476c507f9",
+      "timestamp": "2025-10-23T01:21:00.405Z",
+      "message": "Order #44142 awaiting payment via NOWPayments (Bitcoin) (BTC) from Admin"
+    },
+    {
+      "id": "8ad89f90-727b-4c84-a4ae-55571ced2ff2",
+      "timestamp": "2025-10-23T01:21:00.405Z",
+      "message": "NOWPayments (Bitcoin) invoice created for order #44142"
+    },
+    {
+      "id": "e3b0c8df-c145-4738-a0ae-34accd913e3d",
+      "timestamp": "2025-10-23T01:21:00.405Z",
+      "message": "Chat opened (Order #44142)"
+    },
+    {
+      "id": "454855e5-f508-4e28-ab05-ce5cf3dbcfa8",
+      "timestamp": "2025-10-23T01:24:04.109Z",
+      "message": "View recorded for cut-trees"
+    },
+    {
+      "id": "5f5028d2-0971-4234-9d6e-ae50f64a51ba",
+      "timestamp": "2025-10-23T01:24:58.409Z",
+      "message": "Order #71407 awaiting payment via NOWPayments (Bitcoin) (BTC) from Admin"
+    },
+    {
+      "id": "19225c4d-671a-4dfd-b169-471c4ad7acc8",
+      "timestamp": "2025-10-23T01:24:58.409Z",
+      "message": "NOWPayments (Bitcoin) invoice created for order #71407"
+    },
+    {
+      "id": "f3ac49e1-80da-4e3c-9f79-b26bfeee3cb7",
+      "timestamp": "2025-10-23T01:24:58.409Z",
+      "message": "Chat opened (Order #71407)"
+    },
+    {
+      "id": "8911009e-6f03-4402-b58a-77def2423385",
+      "timestamp": "2025-10-23T01:42:09.059Z",
+      "message": "Order #15799 awaiting payment via NOWPayments (USD Coin) (USDC) from Admin"
+    },
+    {
+      "id": "715a635b-c763-406a-9ba1-52a106ef3b96",
+      "timestamp": "2025-10-23T01:42:09.059Z",
+      "message": "NOWPayments (USD Coin) invoice created for order #15799"
+    },
+    {
+      "id": "42b6b681-c916-4e99-8c1b-1ff46149c608",
+      "timestamp": "2025-10-23T01:42:09.059Z",
+      "message": "Chat opened (Order #15799)"
+    },
+    {
+      "id": "d9a07c4e-b519-4535-be85-e4797280d46b",
+      "timestamp": "2025-10-23T01:52:38.737Z",
+      "message": "Order #81498 awaiting payment via NOWPayments (Ethereum) (ETH) from Admin"
+    },
+    {
+      "id": "554152a7-23da-4731-9e14-66a7ad92b9ef",
+      "timestamp": "2025-10-23T01:52:38.737Z",
+      "message": "NOWPayments (Ethereum) invoice created for order #81498"
+    },
+    {
+      "id": "7c48f9af-a1e3-43bf-8bff-b3b5e07bd6a8",
+      "timestamp": "2025-10-23T01:52:38.737Z",
+      "message": "Chat opened (Order #81498)"
+    },
+    {
+      "id": "7e1b2a91-f5e4-45fb-9920-1318a3948565",
+      "timestamp": "2025-10-23T01:53:06.059Z",
+      "message": "Order #79125 awaiting payment via NOWPayments (Bitcoin) (BTC) from Admin"
+    },
+    {
+      "id": "d7016187-d250-4069-81bb-45e58443f941",
+      "timestamp": "2025-10-23T01:53:06.059Z",
+      "message": "NOWPayments (Bitcoin) invoice created for order #79125"
+    },
+    {
+      "id": "b639e21d-db61-4ff1-acb8-46db92229563",
+      "timestamp": "2025-10-23T01:53:06.059Z",
+      "message": "Chat opened (Order #79125)"
+    },
+    {
+      "id": "a6637800-e17f-45ee-9386-364438960b6f",
+      "timestamp": "2025-10-23T01:53:14.729Z",
+      "message": "Order #23284 awaiting payment via NOWPayments (Ethereum) (ETH) from Admin"
+    },
+    {
+      "id": "edf9b5ba-5f99-4e61-97da-dbb63161c430",
+      "timestamp": "2025-10-23T01:53:14.729Z",
+      "message": "NOWPayments (Ethereum) invoice created for order #23284"
+    },
+    {
+      "id": "ec1d766f-6e6f-4c95-bbe8-801946cafb0b",
+      "timestamp": "2025-10-23T01:53:14.729Z",
+      "message": "Chat opened (Order #23284)"
+    },
+    {
+      "id": "c817df4e-31d8-4c1f-8f2f-ac89e38546bc",
+      "timestamp": "2025-10-23T01:53:19.063Z",
+      "message": "Order #74546 awaiting payment via NOWPayments (USD Coin) (USDC) from Admin"
+    },
+    {
+      "id": "6adb4718-1e22-4f32-95a3-cd65eaf905b0",
+      "timestamp": "2025-10-23T01:53:19.063Z",
+      "message": "NOWPayments (USD Coin) invoice created for order #74546"
+    },
+    {
+      "id": "fc401438-439f-4e9c-8d91-5a3ff30b50b9",
+      "timestamp": "2025-10-23T01:53:19.063Z",
+      "message": "Chat opened (Order #74546)"
+    },
+    {
+      "id": "7aae7efc-b51a-4c7b-97c7-5d2cbb722acf",
+      "timestamp": "2025-10-23T02:01:13.258Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "5257122d-cfc0-4a04-962e-ff8ef9557260",
+      "timestamp": "2025-10-23T02:01:21.041Z",
+      "message": "Order #55269 awaiting payment via NOWPayments (Tether USD (ERC-20)) (USDTERC20) from Admin"
+    },
+    {
+      "id": "1ccd97ea-6acf-41a9-8765-5c7917e36d14",
+      "timestamp": "2025-10-23T02:01:21.041Z",
+      "message": "NOWPayments (Tether USD (ERC-20)) invoice created for order #55269"
+    },
+    {
+      "id": "6121dff8-2fec-4c27-9ad2-2acfea875d1d",
+      "timestamp": "2025-10-23T02:01:21.041Z",
+      "message": "Chat opened (Order #55269)"
+    },
+    {
+      "id": "816dc731-a8e8-4c9f-bf3c-e8de727f7008",
+      "timestamp": "2025-10-23T02:13:37.625Z",
+      "message": "Order #77595 awaiting payment via NOWPayments (Ethereum) (ETH) from Admin"
+    },
+    {
+      "id": "71aafc03-ea23-4166-acc2-db8d05b4b56e",
+      "timestamp": "2025-10-23T02:13:37.625Z",
+      "message": "NOWPayments (Ethereum) invoice created for order #77595"
+    },
+    {
+      "id": "31c243b5-c3a4-413f-8651-681a16990b4a",
+      "timestamp": "2025-10-23T02:13:37.625Z",
+      "message": "Chat opened (Order #77595)"
+    },
+    {
+      "id": "6108fe10-8889-4421-92a0-d79055cd89d2",
+      "timestamp": "2025-10-23T02:15:21.855Z",
+      "message": "Order #58804 awaiting payment via NOWPayments (Bitcoin) (BTC) from Admin"
+    },
+    {
+      "id": "08cb7a8c-0737-4838-93f3-d5ff28bb94f9",
+      "timestamp": "2025-10-23T02:15:21.855Z",
+      "message": "NOWPayments (Bitcoin) invoice created for order #58804"
+    },
+    {
+      "id": "992dee17-0b03-43a7-8644-5fd4253153d9",
+      "timestamp": "2025-10-23T02:15:21.855Z",
+      "message": "Chat opened (Order #58804)"
+    },
+    {
+      "id": "77489251-079b-4a73-a91b-0eb252315bd8",
+      "timestamp": "2025-10-23T02:21:07.937Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "6875573b-c350-43ef-96bf-f14ee9f93b79",
+      "timestamp": "2025-10-23T02:23:21.836Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "2cbaeb4c-683c-47f9-abaa-53b357579723",
+      "timestamp": "2025-10-23T02:30:56.130Z",
+      "message": "New script added: 222 (111)"
+    },
+    {
+      "id": "ffbc10b7-f3fc-458f-95bf-27b9eb214764",
+      "timestamp": "2025-10-23T02:43:55.399Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "85c187c1-0400-4731-b418-46976b45d14f",
+      "timestamp": "2025-10-23T02:47:21.010Z",
+      "message": "New script added: tryetry (lkj)"
+    },
+    {
+      "id": "f2481344-6a6e-4deb-b3e5-891a2cc49fc6",
+      "timestamp": "2025-10-23T02:48:07.272Z",
+      "message": "View recorded for 111"
+    },
+    {
+      "id": "655d3e74-3c8f-485c-9b01-5d5dbadc9fe5",
+      "timestamp": "2025-10-23T02:51:28.964Z",
+      "message": "Script updated: tryetry (lkj)"
+    },
+    {
+      "id": "d18477cf-5124-43a8-bca4-f449ae6c0aee",
+      "timestamp": "2025-10-23T02:51:38.510Z",
+      "message": "Script updated: 222 (111)"
+    },
+    {
+      "id": "7ea5bab8-e8bb-4848-9721-469a03fcf0cb",
+      "timestamp": "2025-10-23T02:56:11.037Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "b3aaac71-bdae-4407-a604-95480345ac21",
+      "timestamp": "2025-10-23T03:03:37.278Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "667182a9-ad86-48cb-aaba-c7ad73674d08",
+      "timestamp": "2025-10-23T03:08:42.080Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "b55ac22e-739f-4dc5-8b3f-665c46f3410f",
+      "timestamp": "2025-10-23T03:09:17.447Z",
+      "message": "View recorded for 111lkllklkl"
+    },
+    {
+      "id": "84ba39a7-9b88-46de-853f-f59819c13802",
+      "timestamp": "2025-10-23T03:09:35.223Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "14e8c69b-375b-4d1a-b950-73cfd8ead604",
+      "timestamp": "2025-10-23T03:09:43.248Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "a65ceed9-d450-4e27-8186-6aee36d6c488",
+      "timestamp": "2025-10-23T03:09:55.667Z",
+      "message": "Order #54129 awaiting payment via NOWPayments (Tether USD (ERC-20)) (USDTERC20) from Admin"
+    },
+    {
+      "id": "02f863a8-ead4-4d62-9b4e-6236487443cf",
+      "timestamp": "2025-10-23T03:09:55.667Z",
+      "message": "NOWPayments (Tether USD (ERC-20)) invoice created for order #54129"
+    },
+    {
+      "id": "b9c80cd3-1a3d-4a8e-bac4-cde3b82c6fb7",
+      "timestamp": "2025-10-23T03:09:55.667Z",
+      "message": "Chat opened (Order #54129)"
+    },
+    {
+      "id": "4fb756a1-38a2-4cf8-9843-2091acd923ad",
+      "timestamp": "2025-10-23T03:13:54.993Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "92dce47d-1c62-49b4-ab97-95d92b8bf289",
+      "timestamp": "2025-10-23T03:14:01.187Z",
+      "message": "Order #16539 awaiting payment via NOWPayments (Tether USD (ERC-20)) (USDTERC20) from Admin"
+    },
+    {
+      "id": "303c09b3-c913-487b-a4f5-8405b2205553",
+      "timestamp": "2025-10-23T03:14:01.187Z",
+      "message": "NOWPayments (Tether USD (ERC-20)) invoice created for order #16539"
+    },
+    {
+      "id": "2bf8424a-d413-43e8-8d5f-ca8b5f30acf0",
+      "timestamp": "2025-10-23T03:14:01.187Z",
+      "message": "Chat opened (Order #16539)"
+    },
+    {
+      "id": "29074ead-347f-4077-81d3-98128eb923d1",
+      "timestamp": "2025-10-23T03:15:04.477Z",
+      "message": "Order #96701 awaiting payment via NOWPayments (Bitcoin) (BTC) from Admin"
+    },
+    {
+      "id": "9d030916-3ba5-4f48-b550-27b78da3b216",
+      "timestamp": "2025-10-23T03:15:04.477Z",
+      "message": "NOWPayments (Bitcoin) invoice created for order #96701"
+    },
+    {
+      "id": "7664580c-75da-4593-9d55-598856d9e0c5",
+      "timestamp": "2025-10-23T03:15:04.477Z",
+      "message": "Chat opened (Order #96701)"
+    },
+    {
+      "id": "86ff522b-ff83-42ea-b2b7-d4aeca126a54",
+      "timestamp": "2025-10-23T15:38:22.708Z",
+      "message": "View recorded for 111lkllklkl"
+    },
+    {
+      "id": "5cea35ab-9b39-430c-b560-023b4a5e6fa4",
+      "timestamp": "2025-10-23T15:41:45.133Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "5c927527-a564-4efd-a48b-9032d50221c1",
+      "timestamp": "2025-10-25T16:27:29.539Z",
+      "message": "Order #90686 awaiting payment via NOWPayments (Tether USD (ERC-20)) (USDTERC20) from Admin"
+    },
+    {
+      "id": "8ebefa07-faa1-4895-bde3-e1a2e5a698a5",
+      "timestamp": "2025-10-25T16:27:29.539Z",
+      "message": "NOWPayments (Tether USD (ERC-20)) invoice created for order #90686"
+    },
+    {
+      "id": "1cf299a7-6ffb-4d16-8d1f-8a2f23435c81",
+      "timestamp": "2025-10-25T16:27:29.540Z",
+      "message": "Chat opened (Order #90686)"
+    },
+    {
+      "id": "64a6a49c-02a2-4a77-bb7d-1fd0e362f64e",
+      "timestamp": "2025-10-26T13:04:28.447Z",
+      "message": "Order #78226 awaiting payment via NOWPayments (Ethereum) (ETH) from Admin"
+    },
+    {
+      "id": "06e17e0c-b234-4a3d-b662-7aa0ee894628",
+      "timestamp": "2025-10-26T13:04:28.447Z",
+      "message": "NOWPayments (Ethereum) invoice created for order #78226"
+    },
+    {
+      "id": "956c1eb6-224f-43cf-ace4-7c494513948d",
+      "timestamp": "2025-10-26T13:04:28.447Z",
+      "message": "Chat opened (Order #78226)"
+    },
+    {
+      "id": "785a1066-1e16-4777-a181-d061969d9eb7",
+      "timestamp": "2025-10-27T14:09:13.488Z",
+      "message": "Admin replied to chat #78226 (Admin)"
+    },
+    {
+      "id": "67dd13ef-54cc-4915-bc67-6b69c5d1150b",
+      "timestamp": "2025-10-27T14:10:03.348Z",
+      "message": "Admin closed chat #30219 (Alex#123)"
+    },
+    {
+      "id": "d331c834-523b-44a4-8d03-7c791cd691a7",
+      "timestamp": "2025-10-27T14:10:05.285Z",
+      "message": "Admin closed chat #44142 (Admin)"
+    },
+    {
+      "id": "ad260b1d-ce2b-4e97-bf19-3da7d0db93f1",
+      "timestamp": "2025-10-27T14:10:09.084Z",
+      "message": "Admin closed chat #71407 (Admin)"
+    },
+    {
+      "id": "0e514152-5c9d-4e53-b102-05d70e6d21bf",
+      "timestamp": "2025-10-27T14:10:11.780Z",
+      "message": "Admin reopened chat #44142 (Admin)"
+    },
+    {
+      "id": "04c41aa2-c015-42e0-9d66-e20f1b95a3e3",
+      "timestamp": "2025-10-27T14:10:27.629Z",
+      "message": "Admin replied to chat #44142 (Admin)"
+    },
+    {
+      "id": "3e260d71-2881-4761-ae9b-aea95e5cdec3",
+      "timestamp": "2025-10-27T15:03:13.338Z",
+      "message": "New script added: 2222 (1111)"
+    },
+    {
+      "id": "47f1f6b0-118c-465f-bd9e-423a3cf42cc7",
+      "timestamp": "2025-10-27T15:03:49.837Z",
+      "message": "View recorded for 1111"
+    },
+    {
+      "id": "7da47f16-95a1-4c87-ac7d-160d9071d15e",
+      "timestamp": "2025-10-27T15:26:27.581Z",
+      "message": "View recorded for 1111"
+    },
+    {
+      "id": "56bfa792-71ac-416e-83f5-109d067a76e8",
+      "timestamp": "2025-10-27T15:26:33.988Z",
+      "message": "View recorded for 1111"
+    },
+    {
+      "id": "b4468cac-9c85-462a-8a52-bce7140335c0",
+      "timestamp": "2025-10-27T15:26:35.081Z",
+      "message": "View recorded for 1111"
+    },
+    {
+      "id": "57cb5e6e-9468-45f4-8660-863798fdfeeb",
+      "timestamp": "2025-10-27T15:26:35.864Z",
+      "message": "View recorded for 1111"
+    },
+    {
+      "id": "de2c31de-6074-4707-b6ad-f28df64e18a8",
+      "timestamp": "2025-10-27T15:26:36.654Z",
+      "message": "View recorded for 1111"
+    },
+    {
+      "id": "3a0972c9-b6d4-406d-99c3-7cc677b531ce",
+      "timestamp": "2025-10-27T15:27:25.594Z",
+      "message": "Script updated: tryetry (lkj//////)"
+    },
+    {
+      "id": "5f504638-1fea-4621-893e-29bcf5b35e86",
+      "timestamp": "2025-10-27T15:27:35.562Z",
+      "message": "Script updated: 2222 (1111)"
+    },
+    {
+      "id": "38c3768a-d989-4860-82ac-8a948b46d73a",
+      "timestamp": "2025-10-27T15:32:35.227Z",
+      "message": "User Admin logged in"
+    },
+    {
+      "id": "41525286-d7e6-4f52-91f9-26a4d8900ead",
+      "timestamp": "2025-10-27T15:50:18.685Z",
+      "message": "Script updated: tryetry (lkj//////)"
+    },
+    {
+      "id": "a2ddda3d-8712-41db-9619-af2e20717718",
+      "timestamp": "2025-10-27T15:50:47.291Z",
+      "message": "View recorded for 111lkllklkl"
+    },
+    {
+      "id": "93b8f613-5993-4994-8d2f-d04b2d3f3a50",
+      "timestamp": "2025-10-27T15:50:52.205Z",
+      "message": "View recorded for 111lkllklkl"
+    },
+    {
+      "id": "63d4810f-5a91-479c-996d-e556bbd6111c",
+      "timestamp": "2025-10-27T15:51:15.981Z",
+      "message": "Script updated: 222 (111lkllklkl)"
+    },
+    {
+      "id": "033abdcb-bac0-4476-8167-ad0770ca8bed",
+      "timestamp": "2025-10-27T15:51:33.763Z",
+      "message": "Script updated: 2222 (1111)"
+    },
+    {
+      "id": "2d341335-0e9f-40bc-8e41-023251ce5eee",
+      "timestamp": "2025-10-27T15:51:43.870Z",
+      "message": "View recorded for 1111"
+    },
+    {
+      "id": "616a252e-14d9-4fbb-9de6-98da42c3436a",
+      "timestamp": "2025-10-27T15:51:49.060Z",
+      "message": "View recorded for 111lkllklkl"
+    },
+    {
+      "id": "47cd22b5-78cc-46bc-b394-b1bbb507e80f",
+      "timestamp": "2025-10-27T15:52:08.616Z",
+      "message": "View recorded for 111lkllklkl"
+    }
+  ],
+  "scripts": [
+    {
+      "slug": "111lkllklkl",
+      "title": "222",
+      "short": "231",
+      "category": "rpg",
+      "tags": [],
+      "features": [],
+      "thumbnail": "http://localhost:5174/images/scripts/c84f6037-e990-4852-b5f2-b0797f5c182a.jpg",
+      "workink_url": "",
+      "status": "private",
+      "compatibility": {
+        "pc": true,
+        "mobile": false,
+        "executor_required": true
+      },
+      "version": "1.0.0",
+      "release_date": "2025-10-23",
+      "updated_at": "2025-10-27",
+      "seo": {
+        "title": "",
+        "description": "",
+        "keywords": []
+      },
+      "description": "",
+      "views": 0
+    },
+    {
+      "slug": "lkj//////",
+      "title": "tryetry",
+      "short": "",
+      "category": "fighting",
+      "tags": [],
+      "features": [],
+      "thumbnail": "http://localhost:5174/images/scripts/00f3c0f5-f089-4082-a7fd-96354ef0d5d1.jpg",
+      "workink_url": "",
+      "status": "active",
+      "compatibility": {
+        "pc": true,
+        "mobile": false,
+        "executor_required": true
+      },
+      "version": "1.0.0",
+      "release_date": "2025-10-23",
+      "updated_at": "2025-10-27",
+      "seo": {
+        "title": "",
+        "description": "",
+        "keywords": []
+      },
+      "description": "",
+      "views": 0
+    },
+    {
+      "slug": "1111",
+      "title": "2222",
+      "short": "",
+      "category": "rpg",
+      "tags": [],
+      "features": [],
+      "thumbnail": "http://localhost:5174/images/scripts/1d7c6abf-ec05-4c77-9c59-3a25007ac730.jpg",
+      "workink_url": "",
+      "status": "active",
+      "compatibility": {
+        "pc": true,
+        "mobile": false,
+        "executor_required": true
+      },
+      "version": "1.0.0",
+      "release_date": "2025-10-27",
+      "updated_at": "2025-10-27",
+      "seo": {
+        "title": "",
+        "description": "",
+        "keywords": []
+      },
+      "description": "qqqqq",
+      "views": 0
+    }
+  ]
+}
