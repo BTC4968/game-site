@@ -1465,6 +1465,11 @@
       "id": "47cd22b5-78cc-46bc-b394-b1bbb507e80f",
       "timestamp": "2025-10-27T15:52:08.616Z",
       "message": "View recorded for 111lkllklkl"
+    },
+    {
+      "id": "c3c4cbee-b589-4d40-93a2-b0a57b728893",
+      "timestamp": "2025-10-29T09:15:13.722Z",
+      "message": "Script deleted: 2222 (1111)"
     }
   ],
   "scripts": [
@@ -1518,32 +1523,6 @@
         "keywords": []
       },
       "description": "",
-      "views": 0
-    },
-    {
-      "slug": "1111",
-      "title": "2222",
-      "short": "",
-      "category": "rpg",
-      "tags": [],
-      "features": [],
-      "thumbnail": "http://localhost:5174/images/scripts/1d7c6abf-ec05-4c77-9c59-3a25007ac730.jpg",
-      "workink_url": "",
-      "status": "active",
-      "compatibility": {
-        "pc": true,
-        "mobile": false,
-        "executor_required": true
-      },
-      "version": "1.0.0",
-      "release_date": "2025-10-27",
-      "updated_at": "2025-10-27",
-      "seo": {
-        "title": "",
-        "description": "",
-        "keywords": []
-      },
-      "description": "qqqqq",
       "views": 0
     }
   ]

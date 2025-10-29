@@ -380,7 +380,7 @@ const serveFile = (res, filePath, method = 'GET') => {
     'Content-Type': contentType,
     'Cache-Control': extension === '.html' ? 'no-cache' : 'public, max-age=31536000',
     'Access-Control-Allow-Origin': '*',
-    'Access-Control-Allow-Methods': 'GET,POST,PATCH,OPTIONS',
+    'Access-Control-Allow-Methods': 'GET,POST,PATCH,DELETE,OPTIONS',
     'Access-Control-Allow-Headers': 'Content-Type,Authorization'
   });
   if (method === 'HEAD') {
@@ -444,7 +444,7 @@ const send = (res, statusCode, payload) => {
   res.writeHead(statusCode, {
     'Content-Type': 'application/json',
     'Access-Control-Allow-Origin': '*',
-    'Access-Control-Allow-Methods': 'GET,POST,PATCH,OPTIONS',
+    'Access-Control-Allow-Methods': 'GET,POST,PATCH,DELETE,OPTIONS',
     'Access-Control-Allow-Headers': 'Content-Type,Authorization'
   });
   res.end(body);
@@ -453,7 +453,7 @@ const send = (res, statusCode, payload) => {
 const noContent = (res) => {
   res.writeHead(204, {
     'Access-Control-Allow-Origin': '*',
-    'Access-Control-Allow-Methods': 'GET,POST,PATCH,OPTIONS',
+    'Access-Control-Allow-Methods': 'GET,POST,PATCH,DELETE,OPTIONS',
     'Access-Control-Allow-Headers': 'Content-Type,Authorization'
   });
   res.end();
@@ -1586,7 +1586,7 @@ const server = http.createServer(async (req, res) => {
       res.writeHead(404, {
         'Content-Type': 'text/html; charset=utf-8',
         'Access-Control-Allow-Origin': '*',
-        'Access-Control-Allow-Methods': 'GET,POST,PATCH,OPTIONS',
+        'Access-Control-Allow-Methods': 'GET,POST,PATCH,DELETE,OPTIONS',
         'Access-Control-Allow-Headers': 'Content-Type,Authorization'
       });
       res.end(`<!doctype html>
